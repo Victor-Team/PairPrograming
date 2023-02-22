@@ -1,0 +1,1032 @@
+AÑO;MES;MUNICIPIO;DATOS
+2008;enero;Las Palmas;98672
+2009;febrero;Las Palmas;98672
+2010;marzo;Las Palmas;98672
+2011;abril;Las Palmas;98672
+2012;mayo;Las Palmas;98672
+2013;junio;Las Palmas;98672
+2014;julio;Las Palmas;98672
+2015;agosto;Las Palmas;98672
+2016;septiembre;Las Palmas;98672
+2017;octubre;Las Palmas;98672
+2018;noviemrbe;Las Palmas;98672
+2019;diciembre;Las Palmas;98672
+2020;enero;Las Palmas;596143
+2021;febrero;Las Palmas;596143
+2022;marzo;Las Palmas;596143
+2023;abril;Las Palmas;596143
+2024;mayo;Las Palmas;596143
+2025;junio;Las Palmas;596143
+2026;julio;Las Palmas;596143
+2027;agosto;Las Palmas;596143
+2028;septiembre;Las Palmas;596143
+2029;octubre;Las Palmas;596143
+2030;noviemrbe;Las Palmas;596143
+2031;diciembre;Las Palmas;596143
+2032;enero;Las Palmas;706143
+2033;febrero;Las Palmas;706143
+2034;marzo;Las Palmas;706143
+2035;abril;Las Palmas;706143
+2036;mayo;Las Palmas;706143
+2037;junio;Las Palmas;706143
+2038;julio;Las Palmas;706143
+2039;agosto;Las Palmas;706143
+2040;septiembre;Las Palmas;706143
+2041;octubre;Las Palmas;706143
+2042;noviemrbe;Las Palmas;706143
+2043;diciembre;Las Palmas;706143
+2044;enero;Las Palmas;1683029
+2045;febrero;Las Palmas;1683029
+2046;marzo;Las Palmas;1683029
+2047;abril;Las Palmas;1683029
+2048;mayo;Las Palmas;1683029
+2049;junio;Las Palmas;1683029
+2050;julio;Las Palmas;1683029
+2051;agosto;Las Palmas;1683029
+2052;septiembre;Las Palmas;1683029
+2053;octubre;Las Palmas;1683029
+2054;noviemrbe;Las Palmas;1683029
+2055;diciembre;Las Palmas;1683029
+2056;enero;Las Palmas;1696725
+2057;febrero;Las Palmas;1696725
+2058;marzo;Las Palmas;1696725
+2059;abril;Las Palmas;1696725
+2060;mayo;Las Palmas;1696725
+2061;junio;Las Palmas;1696725
+2062;julio;Las Palmas;1696725
+2063;agosto;Las Palmas;1696725
+2064;septiembre;Las Palmas;1696725
+2065;octubre;Las Palmas;1696725
+2066;noviemrbe;Las Palmas;1696725
+2067;diciembre;Las Palmas;1696725
+2068;enero;Las Palmas;2306979
+2069;febrero;Las Palmas;2306979
+2070;marzo;Las Palmas;2306979
+2071;abril;Las Palmas;2306979
+2072;mayo;Las Palmas;2306979
+2073;junio;Las Palmas;2306979
+2074;julio;Las Palmas;2306979
+2075;agosto;Las Palmas;2306979
+2076;septiembre;Las Palmas;2306979
+2077;octubre;Las Palmas;2306979
+2078;noviemrbe;Las Palmas;2306979
+2079;diciembre;Las Palmas;2306979
+2080;enero;Las Palmas;2314287
+2081;febrero;Las Palmas;2314287
+2082;marzo;Las Palmas;2314287
+2083;abril;Las Palmas;2314287
+2084;mayo;Las Palmas;2314287
+2085;junio;Las Palmas;2314287
+2086;julio;Las Palmas;2314287
+2087;agosto;Las Palmas;2314287
+2088;septiembre;Las Palmas;2314287
+2089;octubre;Las Palmas;2314287
+2090;noviemrbe;Las Palmas;2314287
+2091;diciembre;Las Palmas;2314287
+2092;enero;Las Palmas;2429917
+2093;febrero;Las Palmas;2429917
+2094;marzo;Las Palmas;2429917
+2095;abril;Las Palmas;2429917
+2096;mayo;Las Palmas;2429917
+2097;junio;Las Palmas;2429917
+2098;julio;Las Palmas;2429917
+2099;agosto;Las Palmas;2429917
+2100;septiembre;Las Palmas;2429917
+2101;octubre;Las Palmas;2429917
+2102;noviemrbe;Las Palmas;2429917
+2103;diciembre;Las Palmas;2429917
+2104;enero;Las Palmas;2853808
+2105;febrero;Las Palmas;2853808
+2106;marzo;Las Palmas;2853808
+2107;abril;Las Palmas;2853808
+2108;mayo;Las Palmas;2853808
+2109;junio;Las Palmas;2853808
+2110;julio;Las Palmas;2853808
+2111;agosto;Las Palmas;2853808
+2112;septiembre;Las Palmas;2853808
+2113;octubre;Las Palmas;2853808
+2114;noviemrbe;Las Palmas;2853808
+2115;diciembre;Las Palmas;2853808
+2116;enero;Las Palmas;2907906
+2117;febrero;Las Palmas;2907906
+2118;marzo;Las Palmas;2907906
+2119;abril;Las Palmas;2907906
+2120;mayo;Las Palmas;2907906
+2121;junio;Las Palmas;2907906
+2122;julio;Las Palmas;2907906
+2123;agosto;Las Palmas;2907906
+2124;septiembre;Las Palmas;2907906
+2125;octubre;Las Palmas;2907906
+2126;noviemrbe;Las Palmas;2907906
+2127;diciembre;Las Palmas;2907906
+2128;enero;Las Palmas;3418563
+2129;febrero;Las Palmas;3418563
+2130;marzo;Las Palmas;3418563
+2131;abril;Las Palmas;3418563
+2132;mayo;Las Palmas;3418563
+2133;junio;Las Palmas;3418563
+2134;julio;Las Palmas;3418563
+2135;agosto;Las Palmas;3418563
+2136;septiembre;Las Palmas;3418563
+2137;octubre;Las Palmas;3418563
+2138;noviemrbe;Las Palmas;3418563
+2139;diciembre;Las Palmas;3418563
+2140;enero;Las Palmas;3489055
+2141;febrero;Las Palmas;3489055
+2142;marzo;Las Palmas;3489055
+2143;abril;Las Palmas;3489055
+2144;mayo;Las Palmas;3489055
+2145;junio;Las Palmas;3489055
+2146;julio;Las Palmas;3489055
+2147;agosto;Las Palmas;3489055
+2148;septiembre;Las Palmas;3489055
+2149;octubre;Las Palmas;3489055
+2150;noviemrbe;Las Palmas;3489055
+2151;diciembre;Las Palmas;3489055
+2152;enero;Las Palmas;3704106
+2153;febrero;Las Palmas;3704106
+2154;marzo;Las Palmas;3704106
+2155;abril;Las Palmas;3704106
+2156;mayo;Las Palmas;3704106
+2157;junio;Las Palmas;3704106
+2158;julio;Las Palmas;3704106
+2159;agosto;Las Palmas;3704106
+2160;septiembre;Las Palmas;3704106
+2161;octubre;Las Palmas;3704106
+2162;noviemrbe;Las Palmas;3704106
+2163;diciembre;Las Palmas;3704106
+2164;enero;Las Palmas;3858758
+2165;febrero;Las Palmas;3858758
+2166;marzo;Las Palmas;3858758
+2167;abril;Las Palmas;3858758
+2168;mayo;Las Palmas;3858758
+2169;junio;Las Palmas;3858758
+2170;julio;Las Palmas;3858758
+2171;agosto;Las Palmas;3858758
+2172;septiembre;Las Palmas;3858758
+2173;octubre;Las Palmas;3858758
+2174;noviemrbe;Las Palmas;3858758
+2175;diciembre;Las Palmas;3858758
+2176;enero;Las Palmas;3983920
+2177;febrero;Las Palmas;3983920
+2178;marzo;Las Palmas;3983920
+2179;abril;Las Palmas;3983920
+2180;mayo;Las Palmas;3983920
+2181;junio;Las Palmas;3983920
+2182;julio;Las Palmas;3983920
+2183;agosto;Las Palmas;3983920
+2184;septiembre;Las Palmas;3983920
+2185;octubre;Las Palmas;3983920
+2186;noviemrbe;Las Palmas;3983920
+2187;diciembre;Las Palmas;3983920
+2188;enero;Las Palmas;4152549
+2189;febrero;Las Palmas;4152549
+2190;marzo;Las Palmas;4152549
+2191;abril;Las Palmas;4152549
+2192;mayo;Las Palmas;4152549
+2193;junio;Las Palmas;4152549
+2194;julio;Las Palmas;4152549
+2195;agosto;Las Palmas;4152549
+2196;septiembre;Las Palmas;4152549
+2197;octubre;Las Palmas;4152549
+2198;noviemrbe;Las Palmas;4152549
+2199;diciembre;Las Palmas;4152549
+2200;enero;Las Palmas;4321178
+2201;febrero;Las Palmas;4321178
+2202;marzo;Las Palmas;4321178
+2203;abril;Las Palmas;4321178
+2204;mayo;Las Palmas;4321178
+2205;junio;Las Palmas;4321178
+2206;julio;Las Palmas;4321178
+2207;agosto;Las Palmas;4321178
+2208;septiembre;Las Palmas;4321178
+2209;octubre;Las Palmas;4321178
+2210;noviemrbe;Las Palmas;4321178
+2211;diciembre;Las Palmas;4321178
+2212;enero;Las Palmas;4789310
+2213;febrero;Las Palmas;4789310
+2214;marzo;Las Palmas;4789310
+2215;abril;Las Palmas;4789310
+2216;mayo;Las Palmas;4789310
+2217;junio;Las Palmas;4789310
+2218;julio;Las Palmas;4789310
+2219;agosto;Las Palmas;4789310
+2220;septiembre;Las Palmas;4789310
+2221;octubre;Las Palmas;4789310
+2222;noviemrbe;Las Palmas;4789310
+2223;diciembre;Las Palmas;4789310
+2224;enero;Las Palmas;4840198
+2225;febrero;Las Palmas;4840198
+2226;marzo;Las Palmas;4840198
+2227;abril;Las Palmas;4840198
+2228;mayo;Las Palmas;4840198
+2229;junio;Las Palmas;4840198
+2230;julio;Las Palmas;4840198
+2231;agosto;Las Palmas;4840198
+2232;septiembre;Las Palmas;4840198
+2233;octubre;Las Palmas;4840198
+2234;noviemrbe;Las Palmas;4840198
+2235;diciembre;Las Palmas;4840198
+2236;enero;Las Palmas;5056459
+2237;febrero;Las Palmas;5056459
+2238;marzo;Las Palmas;5056459
+2239;abril;Las Palmas;5056459
+2240;mayo;Las Palmas;5056459
+2241;junio;Las Palmas;5056459
+2242;julio;Las Palmas;5056459
+2243;agosto;Las Palmas;5056459
+2244;septiembre;Las Palmas;5056459
+2245;octubre;Las Palmas;5056459
+2246;noviemrbe;Las Palmas;5056459
+2247;diciembre;Las Palmas;5056459
+2248;enero;Las Palmas;5182793
+2249;febrero;Las Palmas;5182793
+2250;marzo;Las Palmas;5182793
+2251;abril;Las Palmas;5182793
+2252;mayo;Las Palmas;5182793
+2253;junio;Las Palmas;5182793
+2254;julio;Las Palmas;5182793
+2255;agosto;Las Palmas;5182793
+2256;septiembre;Las Palmas;5182793
+2257;octubre;Las Palmas;5182793
+2258;noviemrbe;Las Palmas;5182793
+2259;diciembre;Las Palmas;5182793
+2260;enero;Las Palmas;5384227
+2261;febrero;Las Palmas;5384227
+2262;marzo;Las Palmas;5384227
+2263;abril;Las Palmas;5384227
+2264;mayo;Las Palmas;5384227
+2265;junio;Las Palmas;5384227
+2266;julio;Las Palmas;5384227
+2267;agosto;Las Palmas;5384227
+2268;septiembre;Las Palmas;5384227
+2269;octubre;Las Palmas;5384227
+2270;noviemrbe;Las Palmas;5384227
+2271;diciembre;Las Palmas;5384227
+2272;enero;Las Palmas;6586345
+2273;febrero;Las Palmas;6586345
+2274;marzo;Las Palmas;6586345
+2275;abril;Las Palmas;6586345
+2276;mayo;Las Palmas;6586345
+2277;junio;Las Palmas;6586345
+2278;julio;Las Palmas;6586345
+2279;agosto;Las Palmas;6586345
+2280;septiembre;Las Palmas;6586345
+2281;octubre;Las Palmas;6586345
+2282;noviemrbe;Las Palmas;6586345
+2283;diciembre;Las Palmas;6586345
+2284;enero;Las Palmas;6820109
+2285;febrero;Las Palmas;6820109
+2286;marzo;Las Palmas;6820109
+2287;abril;Las Palmas;6820109
+2288;mayo;Las Palmas;6820109
+2289;junio;Las Palmas;6820109
+2290;julio;Las Palmas;6820109
+2291;agosto;Las Palmas;6820109
+2292;septiembre;Las Palmas;6820109
+2293;octubre;Las Palmas;6820109
+2294;noviemrbe;Las Palmas;6820109
+2295;diciembre;Las Palmas;6820109
+2296;enero;Las Palmas;7009799
+2297;febrero;Las Palmas;7009799
+2298;marzo;Las Palmas;7009799
+2299;abril;Las Palmas;7009799
+2300;mayo;Las Palmas;7009799
+2301;junio;Las Palmas;7009799
+2302;julio;Las Palmas;7009799
+2303;agosto;Las Palmas;7009799
+2304;septiembre;Las Palmas;7009799
+2305;octubre;Las Palmas;7009799
+2306;noviemrbe;Las Palmas;7009799
+2307;diciembre;Las Palmas;7009799
+2308;enero;Las Palmas;7028605
+2309;febrero;Las Palmas;7028605
+2310;marzo;Las Palmas;7028605
+2311;abril;Las Palmas;7028605
+2312;mayo;Las Palmas;7028605
+2313;junio;Las Palmas;7028605
+2314;julio;Las Palmas;7028605
+2315;agosto;Las Palmas;7028605
+2316;septiembre;Las Palmas;7028605
+2317;octubre;Las Palmas;7028605
+2318;noviemrbe;Las Palmas;7028605
+2319;diciembre;Las Palmas;7028605
+2320;enero;Las Palmas;8859129
+2321;febrero;Las Palmas;8859129
+2322;marzo;Las Palmas;8859129
+2323;abril;Las Palmas;8859129
+2324;mayo;Las Palmas;8859129
+2325;junio;Las Palmas;8859129
+2326;julio;Las Palmas;8859129
+2327;agosto;Las Palmas;8859129
+2328;septiembre;Las Palmas;8859129
+2329;octubre;Las Palmas;8859129
+2330;noviemrbe;Las Palmas;8859129
+2331;diciembre;Las Palmas;8859129
+2332;enero;Las Palmas;9024806
+2333;febrero;Las Palmas;9024806
+2334;marzo;Las Palmas;9024806
+2335;abril;Las Palmas;9024806
+2336;mayo;Las Palmas;9024806
+2337;junio;Las Palmas;9024806
+2338;julio;Las Palmas;9024806
+2339;agosto;Las Palmas;9024806
+2340;septiembre;Las Palmas;9024806
+2341;octubre;Las Palmas;9024806
+2342;noviemrbe;Las Palmas;9024806
+2343;diciembre;Las Palmas;9024806
+2344;enero;Las Palmas;9208250
+2345;febrero;Las Palmas;9208250
+2346;marzo;Las Palmas;9208250
+2347;abril;Las Palmas;9208250
+2348;mayo;Las Palmas;9208250
+2349;junio;Las Palmas;9208250
+2350;julio;Las Palmas;9208250
+2351;agosto;Las Palmas;9208250
+2352;septiembre;Las Palmas;9208250
+2353;octubre;Las Palmas;9208250
+2354;noviemrbe;Las Palmas;9208250
+2355;diciembre;Las Palmas;9208250
+2356;enero;Las Palmas;9278472
+2357;febrero;Las Palmas;9278472
+2358;marzo;Las Palmas;9278472
+2359;abril;Las Palmas;9278472
+2360;mayo;Las Palmas;9278472
+2361;junio;Las Palmas;9278472
+2362;julio;Las Palmas;9278472
+2363;agosto;Las Palmas;9278472
+2364;septiembre;Las Palmas;9278472
+2365;octubre;Las Palmas;9278472
+2366;noviemrbe;Las Palmas;9278472
+2367;diciembre;Las Palmas;9278472
+2368;enero;Las Palmas;9454869
+2369;febrero;Las Palmas;9454869
+2370;marzo;Las Palmas;9454869
+2371;abril;Las Palmas;9454869
+2372;mayo;Las Palmas;9454869
+2373;junio;Las Palmas;9454869
+2374;julio;Las Palmas;9454869
+2375;agosto;Las Palmas;9454869
+2376;septiembre;Las Palmas;9454869
+2377;octubre;Las Palmas;9454869
+2378;noviemrbe;Las Palmas;9454869
+2379;diciembre;Las Palmas;9454869
+2380;enero;Las Palmas;9585228
+2381;febrero;Las Palmas;9585228
+2382;marzo;Las Palmas;9585228
+2383;abril;Las Palmas;9585228
+2384;mayo;Las Palmas;9585228
+2385;junio;Las Palmas;9585228
+2386;julio;Las Palmas;9585228
+2387;agosto;Las Palmas;9585228
+2388;septiembre;Las Palmas;9585228
+2389;octubre;Las Palmas;9585228
+2390;noviemrbe;Las Palmas;9585228
+2391;diciembre;Las Palmas;9585228
+2392;enero;Las Palmas;9636419
+2393;febrero;Las Palmas;9636419
+2394;marzo;Las Palmas;9636419
+2395;abril;Las Palmas;9636419
+2396;mayo;Las Palmas;9636419
+2397;junio;Las Palmas;9636419
+2398;julio;Las Palmas;9636419
+2399;agosto;Las Palmas;9636419
+2400;septiembre;Las Palmas;9636419
+2401;octubre;Las Palmas;9636419
+2402;noviemrbe;Las Palmas;9636419
+2403;diciembre;Las Palmas;9636419
+2404;enero;Las Palmas;9743765
+2405;febrero;Las Palmas;9743765
+2406;marzo;Las Palmas;9743765
+2407;abril;Las Palmas;9743765
+2408;mayo;Las Palmas;9743765
+2409;junio;Las Palmas;9743765
+2410;julio;Las Palmas;9743765
+2411;agosto;Las Palmas;9743765
+2412;septiembre;Las Palmas;9743765
+2413;octubre;Las Palmas;9743765
+2414;noviemrbe;Las Palmas;9743765
+2415;diciembre;Las Palmas;9743765
+2416;enero;Las Palmas;9879558
+2417;febrero;Las Palmas;9879558
+2418;marzo;Las Palmas;9879558
+2419;abril;Las Palmas;9879558
+2420;mayo;Las Palmas;9879558
+2421;junio;Las Palmas;9879558
+2422;julio;Las Palmas;9879558
+2423;agosto;Las Palmas;9879558
+2424;septiembre;Las Palmas;9879558
+2425;octubre;Las Palmas;9879558
+2426;noviemrbe;Las Palmas;9879558
+2427;diciembre;Las Palmas;9879558
+2428;enero;Santa Cruz de Tenerife;417308
+2429;febrero;Santa Cruz de Tenerife;417308
+2430;marzo;Santa Cruz de Tenerife;417308
+2431;abril;Santa Cruz de Tenerife;417308
+2432;mayo;Santa Cruz de Tenerife;417308
+2433;junio;Santa Cruz de Tenerife;417308
+2434;julio;Santa Cruz de Tenerife;417308
+2435;agosto;Santa Cruz de Tenerife;417308
+2436;septiembre;Santa Cruz de Tenerife;417308
+2437;octubre;Santa Cruz de Tenerife;417308
+2438;noviemrbe;Santa Cruz de Tenerife;417308
+2439;diciembre;Santa Cruz de Tenerife;417308
+2440;enero;Santa Cruz de Tenerife;428607
+2441;febrero;Santa Cruz de Tenerife;428607
+2442;marzo;Santa Cruz de Tenerife;428607
+2443;abril;Santa Cruz de Tenerife;428607
+2444;mayo;Santa Cruz de Tenerife;428607
+2445;junio;Santa Cruz de Tenerife;428607
+2446;julio;Santa Cruz de Tenerife;428607
+2447;agosto;Santa Cruz de Tenerife;428607
+2448;septiembre;Santa Cruz de Tenerife;428607
+2449;octubre;Santa Cruz de Tenerife;428607
+2450;noviemrbe;Santa Cruz de Tenerife;428607
+2451;diciembre;Santa Cruz de Tenerife;428607
+2452;enero;Santa Cruz de Tenerife;447982
+2453;febrero;Santa Cruz de Tenerife;447982
+2454;marzo;Santa Cruz de Tenerife;447982
+2455;abril;Santa Cruz de Tenerife;447982
+2456;mayo;Santa Cruz de Tenerife;447982
+2457;junio;Santa Cruz de Tenerife;447982
+2458;julio;Santa Cruz de Tenerife;447982
+2459;agosto;Santa Cruz de Tenerife;447982
+2460;septiembre;Santa Cruz de Tenerife;447982
+2461;octubre;Santa Cruz de Tenerife;447982
+2462;noviemrbe;Santa Cruz de Tenerife;447982
+2463;diciembre;Santa Cruz de Tenerife;447982
+2464;enero;Santa Cruz de Tenerife;526618
+2465;febrero;Santa Cruz de Tenerife;526618
+2466;marzo;Santa Cruz de Tenerife;526618
+2467;abril;Santa Cruz de Tenerife;526618
+2468;mayo;Santa Cruz de Tenerife;526618
+2469;junio;Santa Cruz de Tenerife;526618
+2470;julio;Santa Cruz de Tenerife;526618
+2471;agosto;Santa Cruz de Tenerife;526618
+2472;septiembre;Santa Cruz de Tenerife;526618
+2473;octubre;Santa Cruz de Tenerife;526618
+2474;noviemrbe;Santa Cruz de Tenerife;526618
+2475;diciembre;Santa Cruz de Tenerife;526618
+2476;enero;Santa Cruz de Tenerife;619276
+2477;febrero;Santa Cruz de Tenerife;619276
+2478;marzo;Santa Cruz de Tenerife;619276
+2479;abril;Santa Cruz de Tenerife;619276
+2480;mayo;Santa Cruz de Tenerife;619276
+2481;junio;Santa Cruz de Tenerife;619276
+2482;julio;Santa Cruz de Tenerife;619276
+2483;agosto;Santa Cruz de Tenerife;619276
+2484;septiembre;Santa Cruz de Tenerife;619276
+2485;octubre;Santa Cruz de Tenerife;619276
+2486;noviemrbe;Santa Cruz de Tenerife;619276
+2487;diciembre;Santa Cruz de Tenerife;619276
+2488;enero;Santa Cruz de Tenerife;1614748
+2489;febrero;Santa Cruz de Tenerife;1614748
+2490;marzo;Santa Cruz de Tenerife;1614748
+2491;abril;Santa Cruz de Tenerife;1614748
+2492;mayo;Santa Cruz de Tenerife;1614748
+2493;junio;Santa Cruz de Tenerife;1614748
+2494;julio;Santa Cruz de Tenerife;1614748
+2495;agosto;Santa Cruz de Tenerife;1614748
+2496;septiembre;Santa Cruz de Tenerife;1614748
+2497;octubre;Santa Cruz de Tenerife;1614748
+2498;noviemrbe;Santa Cruz de Tenerife;1614748
+2499;diciembre;Santa Cruz de Tenerife;1614748
+2500;enero;Santa Cruz de Tenerife;1641412
+2501;febrero;Santa Cruz de Tenerife;1641412
+2502;marzo;Santa Cruz de Tenerife;1641412
+2503;abril;Santa Cruz de Tenerife;1641412
+2504;mayo;Santa Cruz de Tenerife;1641412
+2505;junio;Santa Cruz de Tenerife;1641412
+2506;julio;Santa Cruz de Tenerife;1641412
+2507;agosto;Santa Cruz de Tenerife;1641412
+2508;septiembre;Santa Cruz de Tenerife;1641412
+2509;octubre;Santa Cruz de Tenerife;1641412
+2510;noviemrbe;Santa Cruz de Tenerife;1641412
+2511;diciembre;Santa Cruz de Tenerife;1641412
+2512;enero;Santa Cruz de Tenerife;1742963
+2513;febrero;Santa Cruz de Tenerife;1742963
+2514;marzo;Santa Cruz de Tenerife;1742963
+2515;abril;Santa Cruz de Tenerife;1742963
+2516;mayo;Santa Cruz de Tenerife;1742963
+2517;junio;Santa Cruz de Tenerife;1742963
+2518;julio;Santa Cruz de Tenerife;1742963
+2519;agosto;Santa Cruz de Tenerife;1742963
+2520;septiembre;Santa Cruz de Tenerife;1742963
+2521;octubre;Santa Cruz de Tenerife;1742963
+2522;noviemrbe;Santa Cruz de Tenerife;1742963
+2523;diciembre;Santa Cruz de Tenerife;1742963
+2524;enero;Santa Cruz de Tenerife;1811951
+2525;febrero;Santa Cruz de Tenerife;1811951
+2526;marzo;Santa Cruz de Tenerife;1811951
+2527;abril;Santa Cruz de Tenerife;1811951
+2528;mayo;Santa Cruz de Tenerife;1811951
+2529;junio;Santa Cruz de Tenerife;1811951
+2530;julio;Santa Cruz de Tenerife;1811951
+2531;agosto;Santa Cruz de Tenerife;1811951
+2532;septiembre;Santa Cruz de Tenerife;1811951
+2533;octubre;Santa Cruz de Tenerife;1811951
+2534;noviemrbe;Santa Cruz de Tenerife;1811951
+2535;diciembre;Santa Cruz de Tenerife;1811951
+2536;enero;Santa Cruz de Tenerife;1888243
+2537;febrero;Santa Cruz de Tenerife;1888243
+2538;marzo;Santa Cruz de Tenerife;1888243
+2539;abril;Santa Cruz de Tenerife;1888243
+2540;mayo;Santa Cruz de Tenerife;1888243
+2541;junio;Santa Cruz de Tenerife;1888243
+2542;julio;Santa Cruz de Tenerife;1888243
+2543;agosto;Santa Cruz de Tenerife;1888243
+2544;septiembre;Santa Cruz de Tenerife;1888243
+2545;octubre;Santa Cruz de Tenerife;1888243
+2546;noviemrbe;Santa Cruz de Tenerife;1888243
+2547;diciembre;Santa Cruz de Tenerife;1888243
+2548;enero;Santa Cruz de Tenerife;2207661
+2549;febrero;Santa Cruz de Tenerife;2207661
+2550;marzo;Santa Cruz de Tenerife;2207661
+2551;abril;Santa Cruz de Tenerife;2207661
+2552;mayo;Santa Cruz de Tenerife;2207661
+2553;junio;Santa Cruz de Tenerife;2207661
+2554;julio;Santa Cruz de Tenerife;2207661
+2555;agosto;Santa Cruz de Tenerife;2207661
+2556;septiembre;Santa Cruz de Tenerife;2207661
+2557;octubre;Santa Cruz de Tenerife;2207661
+2558;noviemrbe;Santa Cruz de Tenerife;2207661
+2559;diciembre;Santa Cruz de Tenerife;2207661
+2560;enero;Santa Cruz de Tenerife;2243303
+2561;febrero;Santa Cruz de Tenerife;2243303
+2562;marzo;Santa Cruz de Tenerife;2243303
+2563;abril;Santa Cruz de Tenerife;2243303
+2564;mayo;Santa Cruz de Tenerife;2243303
+2565;junio;Santa Cruz de Tenerife;2243303
+2566;julio;Santa Cruz de Tenerife;2243303
+2567;agosto;Santa Cruz de Tenerife;2243303
+2568;septiembre;Santa Cruz de Tenerife;2243303
+2569;octubre;Santa Cruz de Tenerife;2243303
+2570;noviemrbe;Santa Cruz de Tenerife;2243303
+2571;diciembre;Santa Cruz de Tenerife;2243303
+2572;enero;Santa Cruz de Tenerife;2293226
+2573;febrero;Santa Cruz de Tenerife;2293226
+2574;marzo;Santa Cruz de Tenerife;2293226
+2575;abril;Santa Cruz de Tenerife;2293226
+2576;mayo;Santa Cruz de Tenerife;2293226
+2577;junio;Santa Cruz de Tenerife;2293226
+2578;julio;Santa Cruz de Tenerife;2293226
+2579;agosto;Santa Cruz de Tenerife;2293226
+2580;septiembre;Santa Cruz de Tenerife;2293226
+2581;octubre;Santa Cruz de Tenerife;2293226
+2582;noviemrbe;Santa Cruz de Tenerife;2293226
+2583;diciembre;Santa Cruz de Tenerife;2293226
+2584;enero;Santa Cruz de Tenerife;2312072
+2585;febrero;Santa Cruz de Tenerife;2312072
+2586;marzo;Santa Cruz de Tenerife;2312072
+2587;abril;Santa Cruz de Tenerife;2312072
+2588;mayo;Santa Cruz de Tenerife;2312072
+2589;junio;Santa Cruz de Tenerife;2312072
+2590;julio;Santa Cruz de Tenerife;2312072
+2591;agosto;Santa Cruz de Tenerife;2312072
+2592;septiembre;Santa Cruz de Tenerife;2312072
+2593;octubre;Santa Cruz de Tenerife;2312072
+2594;noviemrbe;Santa Cruz de Tenerife;2312072
+2595;diciembre;Santa Cruz de Tenerife;2312072
+2596;enero;Santa Cruz de Tenerife;2388657
+2597;febrero;Santa Cruz de Tenerife;2388657
+2598;marzo;Santa Cruz de Tenerife;2388657
+2599;abril;Santa Cruz de Tenerife;2388657
+2600;mayo;Santa Cruz de Tenerife;2388657
+2601;junio;Santa Cruz de Tenerife;2388657
+2602;julio;Santa Cruz de Tenerife;2388657
+2603;agosto;Santa Cruz de Tenerife;2388657
+2604;septiembre;Santa Cruz de Tenerife;2388657
+2605;octubre;Santa Cruz de Tenerife;2388657
+2606;noviemrbe;Santa Cruz de Tenerife;2388657
+2607;diciembre;Santa Cruz de Tenerife;2388657
+2608;enero;Santa Cruz de Tenerife;2408262
+2609;febrero;Santa Cruz de Tenerife;2408262
+2610;marzo;Santa Cruz de Tenerife;2408262
+2611;abril;Santa Cruz de Tenerife;2408262
+2612;mayo;Santa Cruz de Tenerife;2408262
+2613;junio;Santa Cruz de Tenerife;2408262
+2614;julio;Santa Cruz de Tenerife;2408262
+2615;agosto;Santa Cruz de Tenerife;2408262
+2616;septiembre;Santa Cruz de Tenerife;2408262
+2617;octubre;Santa Cruz de Tenerife;2408262
+2618;noviemrbe;Santa Cruz de Tenerife;2408262
+2619;diciembre;Santa Cruz de Tenerife;2408262
+2620;enero;Santa Cruz de Tenerife;3051366
+2621;febrero;Santa Cruz de Tenerife;3051366
+2622;marzo;Santa Cruz de Tenerife;3051366
+2623;abril;Santa Cruz de Tenerife;3051366
+2624;mayo;Santa Cruz de Tenerife;3051366
+2625;junio;Santa Cruz de Tenerife;3051366
+2626;julio;Santa Cruz de Tenerife;3051366
+2627;agosto;Santa Cruz de Tenerife;3051366
+2628;septiembre;Santa Cruz de Tenerife;3051366
+2629;octubre;Santa Cruz de Tenerife;3051366
+2630;noviemrbe;Santa Cruz de Tenerife;3051366
+2631;diciembre;Santa Cruz de Tenerife;3051366
+2632;enero;Santa Cruz de Tenerife;3140625
+2633;febrero;Santa Cruz de Tenerife;3140625
+2634;marzo;Santa Cruz de Tenerife;3140625
+2635;abril;Santa Cruz de Tenerife;3140625
+2636;mayo;Santa Cruz de Tenerife;3140625
+2637;junio;Santa Cruz de Tenerife;3140625
+2638;julio;Santa Cruz de Tenerife;3140625
+2639;agosto;Santa Cruz de Tenerife;3140625
+2640;septiembre;Santa Cruz de Tenerife;3140625
+2641;octubre;Santa Cruz de Tenerife;3140625
+2642;noviemrbe;Santa Cruz de Tenerife;3140625
+2643;diciembre;Santa Cruz de Tenerife;3140625
+2644;enero;Santa Cruz de Tenerife;3394645
+2645;febrero;Santa Cruz de Tenerife;3394645
+2646;marzo;Santa Cruz de Tenerife;3394645
+2647;abril;Santa Cruz de Tenerife;3394645
+2648;mayo;Santa Cruz de Tenerife;3394645
+2649;junio;Santa Cruz de Tenerife;3394645
+2650;julio;Santa Cruz de Tenerife;3394645
+2651;agosto;Santa Cruz de Tenerife;3394645
+2652;septiembre;Santa Cruz de Tenerife;3394645
+2653;octubre;Santa Cruz de Tenerife;3394645
+2654;noviemrbe;Santa Cruz de Tenerife;3394645
+2655;diciembre;Santa Cruz de Tenerife;3394645
+2656;enero;Santa Cruz de Tenerife;3716144
+2657;febrero;Santa Cruz de Tenerife;3716144
+2658;marzo;Santa Cruz de Tenerife;3716144
+2659;abril;Santa Cruz de Tenerife;3716144
+2660;mayo;Santa Cruz de Tenerife;3716144
+2661;junio;Santa Cruz de Tenerife;3716144
+2662;julio;Santa Cruz de Tenerife;3716144
+2663;agosto;Santa Cruz de Tenerife;3716144
+2664;septiembre;Santa Cruz de Tenerife;3716144
+2665;octubre;Santa Cruz de Tenerife;3716144
+2666;noviemrbe;Santa Cruz de Tenerife;3716144
+2667;diciembre;Santa Cruz de Tenerife;3716144
+2668;enero;Santa Cruz de Tenerife;3744475
+2669;febrero;Santa Cruz de Tenerife;3744475
+2670;marzo;Santa Cruz de Tenerife;3744475
+2671;abril;Santa Cruz de Tenerife;3744475
+2672;mayo;Santa Cruz de Tenerife;3744475
+2673;junio;Santa Cruz de Tenerife;3744475
+2674;julio;Santa Cruz de Tenerife;3744475
+2675;agosto;Santa Cruz de Tenerife;3744475
+2676;septiembre;Santa Cruz de Tenerife;3744475
+2677;octubre;Santa Cruz de Tenerife;3744475
+2678;noviemrbe;Santa Cruz de Tenerife;3744475
+2679;diciembre;Santa Cruz de Tenerife;3744475
+2680;enero;Santa Cruz de Tenerife;4171765
+2681;febrero;Santa Cruz de Tenerife;4171765
+2682;marzo;Santa Cruz de Tenerife;4171765
+2683;abril;Santa Cruz de Tenerife;4171765
+2684;mayo;Santa Cruz de Tenerife;4171765
+2685;junio;Santa Cruz de Tenerife;4171765
+2686;julio;Santa Cruz de Tenerife;4171765
+2687;agosto;Santa Cruz de Tenerife;4171765
+2688;septiembre;Santa Cruz de Tenerife;4171765
+2689;octubre;Santa Cruz de Tenerife;4171765
+2690;noviemrbe;Santa Cruz de Tenerife;4171765
+2691;diciembre;Santa Cruz de Tenerife;4171765
+2692;enero;Santa Cruz de Tenerife;4874392
+2693;febrero;Santa Cruz de Tenerife;4874392
+2694;marzo;Santa Cruz de Tenerife;4874392
+2695;abril;Santa Cruz de Tenerife;4874392
+2696;mayo;Santa Cruz de Tenerife;4874392
+2697;junio;Santa Cruz de Tenerife;4874392
+2698;julio;Santa Cruz de Tenerife;4874392
+2699;agosto;Santa Cruz de Tenerife;4874392
+2700;septiembre;Santa Cruz de Tenerife;4874392
+2701;octubre;Santa Cruz de Tenerife;4874392
+2702;noviemrbe;Santa Cruz de Tenerife;4874392
+2703;diciembre;Santa Cruz de Tenerife;4874392
+2704;enero;Santa Cruz de Tenerife;11023393
+2705;febrero;Santa Cruz de Tenerife;11023393
+2706;marzo;Santa Cruz de Tenerife;11023393
+2707;abril;Santa Cruz de Tenerife;11023393
+2708;mayo;Santa Cruz de Tenerife;11023393
+2709;junio;Santa Cruz de Tenerife;11023393
+2710;julio;Santa Cruz de Tenerife;11023393
+2711;agosto;Santa Cruz de Tenerife;11023393
+2712;septiembre;Santa Cruz de Tenerife;11023393
+2713;octubre;Santa Cruz de Tenerife;11023393
+2714;noviemrbe;Santa Cruz de Tenerife;11023393
+2715;diciembre;Santa Cruz de Tenerife;11023393
+2716;enero;Santa Cruz de Tenerife;13312395
+2717;febrero;Santa Cruz de Tenerife;13312395
+2718;marzo;Santa Cruz de Tenerife;13312395
+2719;abril;Santa Cruz de Tenerife;13312395
+2720;mayo;Santa Cruz de Tenerife;13312395
+2721;junio;Santa Cruz de Tenerife;13312395
+2722;julio;Santa Cruz de Tenerife;13312395
+2723;agosto;Santa Cruz de Tenerife;13312395
+2724;septiembre;Santa Cruz de Tenerife;13312395
+2725;octubre;Santa Cruz de Tenerife;13312395
+2726;noviemrbe;Santa Cruz de Tenerife;13312395
+2727;diciembre;Santa Cruz de Tenerife;13312395
+2728;enero;Santa Cruz de Tenerife;13569562
+2729;febrero;Santa Cruz de Tenerife;13569562
+2730;marzo;Santa Cruz de Tenerife;13569562
+2731;abril;Santa Cruz de Tenerife;13569562
+2732;mayo;Santa Cruz de Tenerife;13569562
+2733;junio;Santa Cruz de Tenerife;13569562
+2734;julio;Santa Cruz de Tenerife;13569562
+2735;agosto;Santa Cruz de Tenerife;13569562
+2736;septiembre;Santa Cruz de Tenerife;13569562
+2737;octubre;Santa Cruz de Tenerife;13569562
+2738;noviemrbe;Santa Cruz de Tenerife;13569562
+2739;diciembre;Santa Cruz de Tenerife;13569562
+2740;enero;Santa Cruz de Tenerife;13682752
+2741;febrero;Santa Cruz de Tenerife;13682752
+2742;marzo;Santa Cruz de Tenerife;13682752
+2743;abril;Santa Cruz de Tenerife;13682752
+2744;mayo;Santa Cruz de Tenerife;13682752
+2745;junio;Santa Cruz de Tenerife;13682752
+2746;julio;Santa Cruz de Tenerife;13682752
+2747;agosto;Santa Cruz de Tenerife;13682752
+2748;septiembre;Santa Cruz de Tenerife;13682752
+2749;octubre;Santa Cruz de Tenerife;13682752
+2750;noviemrbe;Santa Cruz de Tenerife;13682752
+2751;diciembre;Santa Cruz de Tenerife;13682752
+2752;enero;Santa Cruz de Tenerife;13878448
+2753;febrero;Santa Cruz de Tenerife;13878448
+2754;marzo;Santa Cruz de Tenerife;13878448
+2755;abril;Santa Cruz de Tenerife;13878448
+2756;mayo;Santa Cruz de Tenerife;13878448
+2757;junio;Santa Cruz de Tenerife;13878448
+2758;julio;Santa Cruz de Tenerife;13878448
+2759;agosto;Santa Cruz de Tenerife;13878448
+2760;septiembre;Santa Cruz de Tenerife;13878448
+2761;octubre;Santa Cruz de Tenerife;13878448
+2762;noviemrbe;Santa Cruz de Tenerife;13878448
+2763;diciembre;Santa Cruz de Tenerife;13878448
+2764;enero;Santa Cruz de Tenerife;14449383
+2765;febrero;Santa Cruz de Tenerife;14449383
+2766;marzo;Santa Cruz de Tenerife;14449383
+2767;abril;Santa Cruz de Tenerife;14449383
+2768;mayo;Santa Cruz de Tenerife;14449383
+2769;junio;Santa Cruz de Tenerife;14449383
+2770;julio;Santa Cruz de Tenerife;14449383
+2771;agosto;Santa Cruz de Tenerife;14449383
+2772;septiembre;Santa Cruz de Tenerife;14449383
+2773;octubre;Santa Cruz de Tenerife;14449383
+2774;noviemrbe;Santa Cruz de Tenerife;14449383
+2775;diciembre;Santa Cruz de Tenerife;14449383
+2776;enero;Santa Cruz de Tenerife;14475130
+2777;febrero;Santa Cruz de Tenerife;14475130
+2778;marzo;Santa Cruz de Tenerife;14475130
+2779;abril;Santa Cruz de Tenerife;14475130
+2780;mayo;Santa Cruz de Tenerife;14475130
+2781;junio;Santa Cruz de Tenerife;14475130
+2782;julio;Santa Cruz de Tenerife;14475130
+2783;agosto;Santa Cruz de Tenerife;14475130
+2784;septiembre;Santa Cruz de Tenerife;14475130
+2785;octubre;Santa Cruz de Tenerife;14475130
+2786;noviemrbe;Santa Cruz de Tenerife;14475130
+2787;diciembre;Santa Cruz de Tenerife;14475130
+2788;enero;Santa Cruz de Tenerife;14778389
+2789;febrero;Santa Cruz de Tenerife;14778389
+2790;marzo;Santa Cruz de Tenerife;14778389
+2791;abril;Santa Cruz de Tenerife;14778389
+2792;mayo;Santa Cruz de Tenerife;14778389
+2793;junio;Santa Cruz de Tenerife;14778389
+2794;julio;Santa Cruz de Tenerife;14778389
+2795;agosto;Santa Cruz de Tenerife;14778389
+2796;septiembre;Santa Cruz de Tenerife;14778389
+2797;octubre;Santa Cruz de Tenerife;14778389
+2798;noviemrbe;Santa Cruz de Tenerife;14778389
+2799;diciembre;Santa Cruz de Tenerife;14778389
+2800;enero;Santa Cruz de Tenerife;14973382
+2801;febrero;Santa Cruz de Tenerife;14973382
+2802;marzo;Santa Cruz de Tenerife;14973382
+2803;abril;Santa Cruz de Tenerife;14973382
+2804;mayo;Santa Cruz de Tenerife;14973382
+2805;junio;Santa Cruz de Tenerife;14973382
+2806;julio;Santa Cruz de Tenerife;14973382
+2807;agosto;Santa Cruz de Tenerife;14973382
+2808;septiembre;Santa Cruz de Tenerife;14973382
+2809;octubre;Santa Cruz de Tenerife;14973382
+2810;noviemrbe;Santa Cruz de Tenerife;14973382
+2811;diciembre;Santa Cruz de Tenerife;14973382
+2812;enero;Santa Cruz de Tenerife;15001627
+2813;febrero;Santa Cruz de Tenerife;15001627
+2814;marzo;Santa Cruz de Tenerife;15001627
+2815;abril;Santa Cruz de Tenerife;15001627
+2816;mayo;Santa Cruz de Tenerife;15001627
+2817;junio;Santa Cruz de Tenerife;15001627
+2818;julio;Santa Cruz de Tenerife;15001627
+2819;agosto;Santa Cruz de Tenerife;15001627
+2820;septiembre;Santa Cruz de Tenerife;15001627
+2821;octubre;Santa Cruz de Tenerife;15001627
+2822;noviemrbe;Santa Cruz de Tenerife;15001627
+2823;diciembre;Santa Cruz de Tenerife;15001627
+2824;enero;Santa Cruz de Tenerife;15092254
+2825;febrero;Santa Cruz de Tenerife;15092254
+2826;marzo;Santa Cruz de Tenerife;15092254
+2827;abril;Santa Cruz de Tenerife;15092254
+2828;mayo;Santa Cruz de Tenerife;15092254
+2829;junio;Santa Cruz de Tenerife;15092254
+2830;julio;Santa Cruz de Tenerife;15092254
+2831;agosto;Santa Cruz de Tenerife;15092254
+2832;septiembre;Santa Cruz de Tenerife;15092254
+2833;octubre;Santa Cruz de Tenerife;15092254
+2834;noviemrbe;Santa Cruz de Tenerife;15092254
+2835;diciembre;Santa Cruz de Tenerife;15092254
+2836;enero;Santa Cruz de Tenerife;15277782
+2837;febrero;Santa Cruz de Tenerife;15277782
+2838;marzo;Santa Cruz de Tenerife;15277782
+2839;abril;Santa Cruz de Tenerife;15277782
+2840;mayo;Santa Cruz de Tenerife;15277782
+2841;junio;Santa Cruz de Tenerife;15277782
+2842;julio;Santa Cruz de Tenerife;15277782
+2843;agosto;Santa Cruz de Tenerife;15277782
+2844;septiembre;Santa Cruz de Tenerife;15277782
+2845;octubre;Santa Cruz de Tenerife;15277782
+2846;noviemrbe;Santa Cruz de Tenerife;15277782
+2847;diciembre;Santa Cruz de Tenerife;15277782
+2848;enero;Santa Cruz de Tenerife;15386352
+2849;febrero;Santa Cruz de Tenerife;15386352
+2850;marzo;Santa Cruz de Tenerife;15386352
+2851;abril;Santa Cruz de Tenerife;15386352
+2852;mayo;Santa Cruz de Tenerife;15386352
+2853;junio;Santa Cruz de Tenerife;15386352
+2854;julio;Santa Cruz de Tenerife;15386352
+2855;agosto;Santa Cruz de Tenerife;15386352
+2856;septiembre;Santa Cruz de Tenerife;15386352
+2857;octubre;Santa Cruz de Tenerife;15386352
+2858;noviemrbe;Santa Cruz de Tenerife;15386352
+2859;diciembre;Santa Cruz de Tenerife;15386352
+2860;enero;Santa Cruz de Tenerife;15640137
+2861;febrero;Santa Cruz de Tenerife;15640137
+2862;marzo;Santa Cruz de Tenerife;15640137
+2863;abril;Santa Cruz de Tenerife;15640137
+2864;mayo;Santa Cruz de Tenerife;15640137
+2865;junio;Santa Cruz de Tenerife;15640137
+2866;julio;Santa Cruz de Tenerife;15640137
+2867;agosto;Santa Cruz de Tenerife;15640137
+2868;septiembre;Santa Cruz de Tenerife;15640137
+2869;octubre;Santa Cruz de Tenerife;15640137
+2870;noviemrbe;Santa Cruz de Tenerife;15640137
+2871;diciembre;Santa Cruz de Tenerife;15640137
+2872;enero;Santa Cruz de Tenerife;18769893
+2873;febrero;Santa Cruz de Tenerife;18769893
+2874;marzo;Santa Cruz de Tenerife;18769893
+2875;abril;Santa Cruz de Tenerife;18769893
+2876;mayo;Santa Cruz de Tenerife;18769893
+2877;junio;Santa Cruz de Tenerife;18769893
+2878;julio;Santa Cruz de Tenerife;18769893
+2879;agosto;Santa Cruz de Tenerife;18769893
+2880;septiembre;Santa Cruz de Tenerife;18769893
+2881;octubre;Santa Cruz de Tenerife;18769893
+2882;noviemrbe;Santa Cruz de Tenerife;18769893
+2883;diciembre;Santa Cruz de Tenerife;18769893
+2884;enero;Santa Cruz de Tenerife;21899649
+2885;febrero;Santa Cruz de Tenerife;21899649
+2886;marzo;Santa Cruz de Tenerife;21899649
+2887;abril;Santa Cruz de Tenerife;21899649
+2888;mayo;Santa Cruz de Tenerife;21899649
+2889;junio;Santa Cruz de Tenerife;21899649
+2890;julio;Santa Cruz de Tenerife;21899649
+2891;agosto;Santa Cruz de Tenerife;21899649
+2892;septiembre;Santa Cruz de Tenerife;21899649
+2893;octubre;Santa Cruz de Tenerife;21899649
+2894;noviemrbe;Santa Cruz de Tenerife;21899649
+2895;diciembre;Santa Cruz de Tenerife;21899649
+2896;enero;Santa Cruz de Tenerife;22133991
+2897;febrero;Santa Cruz de Tenerife;22133991
+2898;marzo;Santa Cruz de Tenerife;22133991
+2899;abril;Santa Cruz de Tenerife;22133991
+2900;mayo;Santa Cruz de Tenerife;22133991
+2901;junio;Santa Cruz de Tenerife;22133991
+2902;julio;Santa Cruz de Tenerife;22133991
+2903;agosto;Santa Cruz de Tenerife;22133991
+2904;septiembre;Santa Cruz de Tenerife;22133991
+2905;octubre;Santa Cruz de Tenerife;22133991
+2906;noviemrbe;Santa Cruz de Tenerife;22133991
+2907;diciembre;Santa Cruz de Tenerife;22133991
+2908;enero;Santa Cruz de Tenerife;22221232
+2909;febrero;Santa Cruz de Tenerife;22221232
+2910;marzo;Santa Cruz de Tenerife;22221232
+2911;abril;Santa Cruz de Tenerife;22221232
+2912;mayo;Santa Cruz de Tenerife;22221232
+2913;junio;Santa Cruz de Tenerife;22221232
+2914;julio;Santa Cruz de Tenerife;22221232
+2915;agosto;Santa Cruz de Tenerife;22221232
+2916;septiembre;Santa Cruz de Tenerife;22221232
+2917;octubre;Santa Cruz de Tenerife;22221232
+2918;noviemrbe;Santa Cruz de Tenerife;22221232
+2919;diciembre;Santa Cruz de Tenerife;22221232
+2920;enero;Santa Cruz de Tenerife;22352788
+2921;febrero;Santa Cruz de Tenerife;22352788
+2922;marzo;Santa Cruz de Tenerife;22352788
+2923;abril;Santa Cruz de Tenerife;22352788
+2924;mayo;Santa Cruz de Tenerife;22352788
+2925;junio;Santa Cruz de Tenerife;22352788
+2926;julio;Santa Cruz de Tenerife;22352788
+2927;agosto;Santa Cruz de Tenerife;22352788
+2928;septiembre;Santa Cruz de Tenerife;22352788
+2929;octubre;Santa Cruz de Tenerife;22352788
+2930;noviemrbe;Santa Cruz de Tenerife;22352788
+2931;diciembre;Santa Cruz de Tenerife;22352788
+2932;enero;Santa Cruz de Tenerife;22997897
+2933;febrero;Santa Cruz de Tenerife;22997897
+2934;marzo;Santa Cruz de Tenerife;22997897
+2935;abril;Santa Cruz de Tenerife;22997897
+2936;mayo;Santa Cruz de Tenerife;22997897
+2937;junio;Santa Cruz de Tenerife;22997897
+2938;julio;Santa Cruz de Tenerife;22997897
+2939;agosto;Santa Cruz de Tenerife;22997897
+2940;septiembre;Santa Cruz de Tenerife;22997897
+2941;octubre;Santa Cruz de Tenerife;22997897
+2942;noviemrbe;Santa Cruz de Tenerife;22997897
+2943;diciembre;Santa Cruz de Tenerife;22997897
+2944;enero;Santa Cruz de Tenerife;23395329
+2945;febrero;Santa Cruz de Tenerife;23395329
+2946;marzo;Santa Cruz de Tenerife;23395329
+2947;abril;Santa Cruz de Tenerife;23395329
+2948;mayo;Santa Cruz de Tenerife;23395329
+2949;junio;Santa Cruz de Tenerife;23395329
+2950;julio;Santa Cruz de Tenerife;23395329
+2951;agosto;Santa Cruz de Tenerife;23395329
+2952;septiembre;Santa Cruz de Tenerife;23395329
+2953;octubre;Santa Cruz de Tenerife;23395329
+2954;noviemrbe;Santa Cruz de Tenerife;23395329
+2955;diciembre;Santa Cruz de Tenerife;23395329
+2956;enero;Santa Cruz de Tenerife;23441660
+2957;febrero;Santa Cruz de Tenerife;23441660
+2958;marzo;Santa Cruz de Tenerife;23441660
+2959;abril;Santa Cruz de Tenerife;23441660
+2960;mayo;Santa Cruz de Tenerife;23441660
+2961;junio;Santa Cruz de Tenerife;23441660
+2962;julio;Santa Cruz de Tenerife;23441660
+2963;agosto;Santa Cruz de Tenerife;23441660
+2964;septiembre;Santa Cruz de Tenerife;23441660
+2965;octubre;Santa Cruz de Tenerife;23441660
+2966;noviemrbe;Santa Cruz de Tenerife;23441660
+2967;diciembre;Santa Cruz de Tenerife;23441660
+2968;enero;Santa Cruz de Tenerife;23523287
+2969;febrero;Santa Cruz de Tenerife;23523287
+2970;marzo;Santa Cruz de Tenerife;23523287
+2971;abril;Santa Cruz de Tenerife;23523287
+2972;mayo;Santa Cruz de Tenerife;23523287
+2973;junio;Santa Cruz de Tenerife;23523287
+2974;julio;Santa Cruz de Tenerife;23523287
+2975;agosto;Santa Cruz de Tenerife;23523287
+2976;septiembre;Santa Cruz de Tenerife;23523287
+2977;octubre;Santa Cruz de Tenerife;23523287
+2978;noviemrbe;Santa Cruz de Tenerife;23523287
+2979;diciembre;Santa Cruz de Tenerife;23523287
+2980;enero;Santa Cruz de Tenerife;23665892
+2981;febrero;Santa Cruz de Tenerife;23665892
+2982;marzo;Santa Cruz de Tenerife;23665892
+2983;abril;Santa Cruz de Tenerife;23665892
+2984;mayo;Santa Cruz de Tenerife;23665892
+2985;junio;Santa Cruz de Tenerife;23665892
+2986;julio;Santa Cruz de Tenerife;23665892
+2987;agosto;Santa Cruz de Tenerife;23665892
+2988;septiembre;Santa Cruz de Tenerife;23665892
+2989;octubre;Santa Cruz de Tenerife;23665892
+2990;noviemrbe;Santa Cruz de Tenerife;23665892
+2991;diciembre;Santa Cruz de Tenerife;23665892
+2992;enero;Santa Cruz de Tenerife;23699561
+2993;febrero;Santa Cruz de Tenerife;23699561
+2994;marzo;Santa Cruz de Tenerife;23699561
+2995;abril;Santa Cruz de Tenerife;23699561
+2996;mayo;Santa Cruz de Tenerife;23699561
+2997;junio;Santa Cruz de Tenerife;23699561
+2998;julio;Santa Cruz de Tenerife;23699561
+2999;agosto;Santa Cruz de Tenerife;23699561
+3000;septiembre;Santa Cruz de Tenerife;23699561
+3001;octubre;Santa Cruz de Tenerife;23699561
+3002;noviemrbe;Santa Cruz de Tenerife;23699561
+3003;diciembre;Santa Cruz de Tenerife;23699561
+3004;enero;Santa Cruz de Tenerife;23757249
+3005;febrero;Santa Cruz de Tenerife;23757249
+3006;marzo;Santa Cruz de Tenerife;23757249
+3007;abril;Santa Cruz de Tenerife;23757249
+3008;mayo;Santa Cruz de Tenerife;23757249
+3009;junio;Santa Cruz de Tenerife;23757249
+3010;julio;Santa Cruz de Tenerife;23757249
+3011;agosto;Santa Cruz de Tenerife;23757249
+3012;septiembre;Santa Cruz de Tenerife;23757249
+3013;octubre;Santa Cruz de Tenerife;23757249
+3014;noviemrbe;Santa Cruz de Tenerife;23757249
+3015;diciembre;Santa Cruz de Tenerife;23757249
+3016;enero;Santa Cruz de Tenerife;23796911
+3017;febrero;Santa Cruz de Tenerife;23796911
+3018;marzo;Santa Cruz de Tenerife;23796911
+3019;abril;Santa Cruz de Tenerife;23796911
+3020;mayo;Santa Cruz de Tenerife;23796911
+3021;junio;Santa Cruz de Tenerife;23796911
+3022;julio;Santa Cruz de Tenerife;23796911
+3023;agosto;Santa Cruz de Tenerife;23796911
+3024;septiembre;Santa Cruz de Tenerife;23796911
+3025;octubre;Santa Cruz de Tenerife;23796911
+3026;noviemrbe;Santa Cruz de Tenerife;23796911
+3027;diciembre;Santa Cruz de Tenerife;23796911
+3028;enero;Santa Cruz de Tenerife;23831522
+3029;febrero;Santa Cruz de Tenerife;23831522
+3030;marzo;Santa Cruz de Tenerife;23831522
+3031;abril;Santa Cruz de Tenerife;23831522
+3032;mayo;Santa Cruz de Tenerife;23831522
+3033;junio;Santa Cruz de Tenerife;23831522
+3034;julio;Santa Cruz de Tenerife;23831522
+3035;agosto;Santa Cruz de Tenerife;23831522
+3036;septiembre;Santa Cruz de Tenerife;23831522
+3037;octubre;Santa Cruz de Tenerife;23831522
+3038

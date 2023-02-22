@@ -1,0 +1,15 @@
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\bin\Debug\net6.0\Pair Porgraming Ej 3.exe
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\bin\Debug\net6.0\Pair Porgraming Ej 3.deps.json
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\bin\Debug\net6.0\Pair Porgraming Ej 3.runtimeconfig.json
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\bin\Debug\net6.0\Pair Porgraming Ej 3.dll
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\bin\Debug\net6.0\Pair Porgraming Ej 3.pdb
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\obj\Debug\net6.0\Pair Porgraming Ej 3.csproj.AssemblyReference.cache
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\obj\Debug\net6.0\Pair Porgraming Ej 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\obj\Debug\net6.0\Pair Porgraming Ej 3.AssemblyInfoInputs.cache
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\obj\Debug\net6.0\Pair Porgraming Ej 3.AssemblyInfo.cs
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\obj\Debug\net6.0\Pair Porgraming Ej 3.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\obj\Debug\net6.0\Pair Porgraming Ej 3.dll
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\obj\Debug\net6.0\refint\Pair Porgraming Ej 3.dll
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\obj\Debug\net6.0\Pair Porgraming Ej 3.pdb
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\obj\Debug\net6.0\Pair Porgraming Ej 3.genruntimeconfig.cache
+D:\OneDrive\Documentos\1º DAW\ETS\Git\PairPrograming\Ejercicio 3\Pair Porgraming Ej 3\Pair Porgraming Ej 3\obj\Debug\net6.0\ref\Pair Porgraming Ej 3.dll
