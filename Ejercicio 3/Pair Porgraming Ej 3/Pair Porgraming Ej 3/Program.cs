@@ -1,25 +1,23 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Reflection.PortableExecutable;
 using System.Security.Cryptography.X509Certificates;
 
 namespace Ejercicio3
 {
-
     class Paro
     {
         public const string SalidaFICH = "Salida.txt";
-        public const string ParoFICH = "paro.csv";
-
         static void Main(string[] args)
         {
-
-
-
+            int añoPalmas = 2008;
+            int añoTenerife = 2008;
+            string[] lineas = File.ReadAllLines("paro.csv");
+            string[] meses = { "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviemrbe", "diciembre" };
             //crear salida
-            
-             FileStream ficheroSalida=null;
-            
+
+            FileStream ficheroSalida = null;
+
             try
             {
                 ficheroSalida = File.Create(SalidaFICH);
@@ -29,62 +27,97 @@ namespace Ejercicio3
                 Console.WriteLine("Pulsa una tecla para seguir");
                 Console.ReadKey();
             }
-          catch(Exception ex)
+            catch (Exception ex)
             {
-              Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.Message);
 
             }
 
-            StreamWriter Escritura=null;
+            //introducir datos en Salida.txt
+
+            StreamWriter Escritura = null;
             try
             {
                 Escritura = new StreamWriter(SalidaFICH);
+
                 Console.Clear();
+
                 Escritura.WriteLine("AÑO;MES;MUNICIPIO;DATOS");
-                int CantPalmas = 0;
-                int CantTenerife = 0;
-                int aux = 0;
-                int año = 2008;
-                string[] lineas = File.ReadAllLines("paro.csv");
-                string[] meses = { "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviemrbe", "diciembre" };
 
                 foreach (var linea in lineas)
                 {
                     var valores = linea.Split(',');
+                    int mesIndex = 0;
 
                     for (int i = 3; i < lineas.Length; i++)
                     {
                         if (valores[i].Contains("Palmas"))
                         {
-                            for (int j = 6; j < valores.Length; j++)
-                            {
-                                Int32.TryParse(valores[j], out aux);
-                                CantPalmas += aux;
-                            }
-
                             for (int k = 0; k < meses.Length; k++)
-                                Escritura.WriteLine((año++) + ";" + meses[k] + ";" + valores[3] + ";" + CantPalmas);
+                            {
+                                for (int j = 6; j < valores.Length; j++)
+                                {
+                                    int CantPalmas = 0;
+
+                                    Int32.TryParse(valores[j], out CantPalmas);
+
+                                    if (añoPalmas > 2018)
+                                    {
+
+                                        break;
+                                    }
+                                    else
+                                    {
+                                        Escritura.WriteLine((añoPalmas) + ";" + meses[mesIndex++] + ";" + valores[3] + ";" + CantPalmas);
+
+                                        if (mesIndex == 12)
+                                        {
+                                            mesIndex = 0;
+                                            añoPalmas++;
+                                        }
+                                    }
+                                }
+                            }
                         }
                         if (valores[i].Contains("Tenerife"))
                         {
-                            for (int j = 6; j < valores.Length; j++)
-                            {
-                                Int32.TryParse(valores[j], out aux);
-                                CantTenerife += aux;
-                            }
-
                             for (int k = 0; k < meses.Length; k++)
-                                Escritura.WriteLine((año++) + ";" + meses[k] + ";" + valores[3] + ";" + CantTenerife);
+                            {
+                                for (int j = 6; j < valores.Length; j++)
+                                {
+
+                                    int CantTenerife = 0;
+
+                                    Int32.TryParse(valores[j], out CantTenerife);
+
+                                    if (añoTenerife > 2018)
+                                    {
+                                        Escritura.Close();
+                                        break;
+                                    }
+                                    else
+                                    {
+                                        Escritura.WriteLine((añoTenerife) + ";" + meses[mesIndex++] + ";" + valores[3] + ";" + CantTenerife);
+
+                                        if (mesIndex == 12)
+                                        {
+                                            mesIndex = 0;
+                                            añoTenerife++;
+                                        }
+                                    }
+                                }
+                            }
                         }
                     }
-
                 }
+                Console.WriteLine("Datos CSV introducidos en salida.txt");
+                Console.WriteLine("Pulse para continuar");
+                Console.ReadKey();
             }
-            catch(Exception ex) 
-            { 
+            catch (Exception ex)
+            {
                 Console.WriteLine(ex.Message);
             }
-        
         }
     }
 }
