@@ -10,10 +10,12 @@ namespace Ejercicio3
         public const string SalidaFICH = "Salida.txt";
         static void Main(string[] args)
         {
-            int añoPalmas = 2008;
-            int añoTenerife = 2008;
-            string[] lineas = File.ReadAllLines("paro.csv");
-            string[] meses = { "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviemrbe", "diciembre" };
+                int añoPalmas = 2008;
+                int añoTenerife = 2008;
+                string[] lineas = File.ReadAllLines("paro.csv");
+                string[] meses = {"enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviemrbe", "diciembre" };
+                
+                int aux =0;
             //crear salida
 
             FileStream ficheroSalida = null;
@@ -39,11 +41,11 @@ namespace Ejercicio3
             try
             {
                 Escritura = new StreamWriter(SalidaFICH);
-
+               
                 Console.Clear();
-
-                Escritura.WriteLine("AÑO;MES;MUNICIPIO;DATOS");
-
+                
+                Escritura.WriteLine("AÑO;MES;MUNICIPIO;DATOS");   
+                
                 foreach (var linea in lineas)
                 {
                     var valores = linea.Split(',');
@@ -54,11 +56,11 @@ namespace Ejercicio3
                         if (valores[i].Contains("Palmas"))
                         {
                             for (int k = 0; k < meses.Length; k++)
-                            {
+                            {   
                                 for (int j = 6; j < valores.Length; j++)
                                 {
                                     int CantPalmas = 0;
-
+                                  
                                     Int32.TryParse(valores[j], out CantPalmas);
 
                                     if (añoPalmas > 2018)
@@ -68,12 +70,16 @@ namespace Ejercicio3
                                     }
                                     else
                                     {
-                                        Escritura.WriteLine((añoPalmas) + ";" + meses[mesIndex++] + ";" + valores[3] + ";" + CantPalmas);
 
-                                        if (mesIndex == 12)
+                                        if (Int32.TryParse(valores[3], out aux))
                                         {
-                                            mesIndex = 0;
-                                            añoPalmas++;
+                                            Escritura.WriteLine((añoPalmas) + ";" + meses[mesIndex++] + ";" + valores[3] + ";" + CantPalmas);
+
+                                            if (mesIndex == 12)
+                                            {
+                                                mesIndex = 0;
+                                                añoPalmas++;
+                                            }
                                         }
                                     }
                                 }
@@ -82,7 +88,7 @@ namespace Ejercicio3
                         if (valores[i].Contains("Tenerife"))
                         {
                             for (int k = 0; k < meses.Length; k++)
-                            {
+                            {   
                                 for (int j = 6; j < valores.Length; j++)
                                 {
 
@@ -97,12 +103,15 @@ namespace Ejercicio3
                                     }
                                     else
                                     {
-                                        Escritura.WriteLine((añoTenerife) + ";" + meses[mesIndex++] + ";" + valores[3] + ";" + CantTenerife);
-
-                                        if (mesIndex == 12)
+                                        if (Int32.TryParse(valores[3], out aux))
                                         {
-                                            mesIndex = 0;
-                                            añoTenerife++;
+                                            Escritura.WriteLine((añoPalmas) + ";" + meses[mesIndex++] + ";" + valores[3] + ";" + CantTenerife);
+
+                                            if (mesIndex == 12)
+                                            {
+                                                mesIndex = 0;
+                                                añoPalmas++;
+                                            }
                                         }
                                     }
                                 }
