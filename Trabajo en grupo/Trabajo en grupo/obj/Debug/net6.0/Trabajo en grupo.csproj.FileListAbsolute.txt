@@ -1,0 +1,15 @@
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\bin\Debug\net6.0\Trabajo en grupo.exe
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\bin\Debug\net6.0\Trabajo en grupo.deps.json
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\bin\Debug\net6.0\Trabajo en grupo.runtimeconfig.json
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\bin\Debug\net6.0\Trabajo en grupo.dll
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\bin\Debug\net6.0\Trabajo en grupo.pdb
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\obj\Debug\net6.0\Trabajo en grupo.csproj.AssemblyReference.cache
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\obj\Debug\net6.0\Trabajo en grupo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\obj\Debug\net6.0\Trabajo en grupo.AssemblyInfoInputs.cache
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\obj\Debug\net6.0\Trabajo en grupo.AssemblyInfo.cs
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\obj\Debug\net6.0\Trabajo en grupo.csproj.CoreCompileInputs.cache
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\obj\Debug\net6.0\Trabajo en grupo.dll
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\obj\Debug\net6.0\refint\Trabajo en grupo.dll
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\obj\Debug\net6.0\Trabajo en grupo.pdb
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\obj\Debug\net6.0\Trabajo en grupo.genruntimeconfig.cache
+C:\Users\Dario\source\repos\Trabajo en grupo\Trabajo en grupo\obj\Debug\net6.0\ref\Trabajo en grupo.dll
